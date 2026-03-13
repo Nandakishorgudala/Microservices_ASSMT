@@ -72,5 +72,3 @@ Each microservice is organized into four projects:
 
 All requests to Finance and Insights services require a `Bearer` token received from the `AuthService.API/api/auth/login` endpoint.
 
----
-Created by Antigravity AI.
